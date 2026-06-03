@@ -1,0 +1,12 @@
+# Day 1 - What I Practiced
+
+- Created database and table in MySQL
+- Inserted 25 sample records
+- Practiced SELECT queries
+- Practiced WHERE filtering conditions
+- Used AND, OR, BETWEEN operators
+- Sorted data using ORDER BY
+- Learned real-world employee dataset handling
+
+## Outcome:
+Built strong foundation in SQL basics.

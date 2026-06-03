@@ -1,0 +1,11 @@
+# Day 1 Notes
+
+## Concepts Covered:
+- SELECT statement
+- WHERE clause
+- Filtering data
+- Sorting data (ORDER BY)
+- DISTINCT, LIMIT
+
+## Key Learning:
+SQL is used to filter and analyze structured data efficiently.
