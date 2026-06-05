@@ -1,0 +1,13 @@
+# Day 2 Notes
+
+## Topics Covered
+- ORDER BY
+- ASC (Ascending)
+- DESC (Descending)
+- LIMIT
+- Combining WHERE + ORDER BY + LIMIT
+
+## Key Learning
+- ORDER BY is used to sort data.
+- LIMIT is used to restrict the number of rows returned.
+- ORDER BY and LIMIT are often used together to find top or bottom records.
