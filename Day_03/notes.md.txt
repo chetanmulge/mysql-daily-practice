@@ -1,0 +1,14 @@
+# Day 3 Notes
+
+## Topics Covered
+- INSERT INTO
+- UPDATE
+- DELETE
+- WHERE clause with UPDATE
+- WHERE clause with DELETE
+
+## Key Learning
+- INSERT adds new records.
+- UPDATE modifies existing records.
+- DELETE removes records.
+- Always use WHERE with UPDATE and DELETE to avoid affecting all rows.
