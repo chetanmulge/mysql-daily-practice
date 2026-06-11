@@ -1,0 +1,20 @@
+# Day 4 Notes
+
+## Basic Data Types
+
+- INT
+- VARCHAR
+- DATE
+- DECIMAL
+- BIGINT
+
+## Commands Covered
+
+- CREATE TABLE
+- DROP TABLE
+
+## Key Learning
+
+Data types determine what kind of data can be stored in a column.
+CREATE TABLE creates a new table.
+DROP TABLE permanently removes a table and its data.
